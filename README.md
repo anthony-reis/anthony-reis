@@ -15,7 +15,6 @@
     <img align="center" height="50" width="80" alt="flutter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" height="50" width="80" alt="vsCode-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" height="50" width="80" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-    <img align="center" height="50" width="80" alt="firebase-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <img align="center" height="50" width="80" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    </div>
     
