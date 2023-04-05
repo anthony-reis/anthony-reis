@@ -1,10 +1,6 @@
 ## Saaaalve dev, Anthony Aqui!
+### Olá, seja bem-vindo(a) ao meu perfil,</br> sou um jovem apaixonado por tecnologia e especialista em Flutter.
 
-<div>
-  
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=AnthonySaDevFlutter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width: "50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonySaDevFlutter&layout=compact&langs_count=16&theme=algolia"/>
-</div>
 <br>
 
 <div  align="center"> 
