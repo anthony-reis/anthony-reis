@@ -5,6 +5,11 @@
 -   <a href = "https://drive.google.com/file/d/1HPs4UdcpfH8lKKcs2vTOIpnPzNL15CX9/view?usp=sharing" target=_blank>
       Curriculum Vitae
     </a>
+    
+-   <a href = "https://anthonysa-portfolio.netlify.app/" target=_blank>
+      Portfólio
+    </a>
+    
 <br>
 
 <div  align="center"> 
