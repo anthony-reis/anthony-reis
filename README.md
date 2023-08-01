@@ -1,5 +1,5 @@
 ## Saaaalve dev, Anthony Aqui!
-### Olá, seja bem-vindo(a) ao meu perfil,</br> sou um jovem apaixonado por tecnologia e especialista em ReactJs.
+### Olá, seja bem-vindo(a) ao meu perfil,</br> sou um jovem apaixonado por tecnologia e especialista em Desenvolvimento Android Nativo.
 
 
 -   <a href = "https://drive.google.com/file/d/1HPs4UdcpfH8lKKcs2vTOIpnPzNL15CX9/view?usp=sharing" target=_blank>
@@ -16,11 +16,11 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
     <h1 align="center">Minhas Tecnologias <3</h1>
-      <img align="center" height="50" width="80" alt="reactNative-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" height="50" width="80" alt="dart-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-    <img align="center" height="50" width="80" alt="flutter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-    <img align="center" height="50" width="80" alt="Js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" height="50" width="80" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img align="center" height="50" width="80" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
+      <img align="center" height="50" width="80" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+      <img align="center" height="50" width="80" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+      <img align="center" height="50" width="80" alt="androidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+      <img align="center" height="50" width="80" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
    </div>
     
   
