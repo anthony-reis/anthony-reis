@@ -16,11 +16,11 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
     <h1 align="center">Minhas Tecnologias <3</h1>
-      <img align="center" height="50" width="80" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
-      <img align="center" height="50" width="80" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-      <img align="center" height="50" width="80" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
-      <img align="center" height="50" width="80" alt="androidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-      <img align="center" height="50" width="80" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+      <img align="center" height="50" width="80" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      <img align="center" height="50" width="80" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <img align="center" height="50" width="80" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" >
+      <img align="center" height="50" width="80" alt="androidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img align="center" height="50" width="80" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"rebase-plain.svg">
    </div>
     
   
