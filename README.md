@@ -2,7 +2,7 @@
 ### Olá, seja bem-vindo(a) ao meu perfil,</br> sou um jovem apaixonado por tecnologia e especialista em Desenvolvimento Mobile.
 
 
--   <a href = "https://drive.google.com/file/d/1HPs4UdcpfH8lKKcs2vTOIpnPzNL15CX9/view?usp=sharing" target=_blank>
+-   <a href = "https://drive.google.com/file/d/1CfQawrYD8w1hwSbk7yiHeMnuZuqfAp2N/view?usp=drive_link" target=_blank>
       Curriculum Vitae
     </a>
     
