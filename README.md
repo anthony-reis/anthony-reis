@@ -2,11 +2,11 @@
 ### Olá, seja bem-vindo(a) ao meu perfil,</br> sou um jovem apaixonado por tecnologia e especialista em Desenvolvimento Mobile.
 
 
--   <a href = "https://drive.google.com/file/d/1CfQawrYD8w1hwSbk7yiHeMnuZuqfAp2N/view?usp=sharing" target=_blank>
+-   <a href = "https://drive.google.com/file/d/1zE9-kVl26xbKlzZ79PFU8UVHV0lnDOL8/view?usp=drive_link" target=_blank>
       Curriculum Vitae
     </a>
     
--   <a href = "https://anthonysa-portfolio.netlify.app/" target=_blank>
+-   <a href = "https://www.anthonysa.com.br/" target=_blank>
       Portfólio
     </a>
     
