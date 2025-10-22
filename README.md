@@ -28,8 +28,9 @@ Minha missão é unir essas duas visões — **precisão corporativa** e **inova
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
