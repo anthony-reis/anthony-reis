@@ -1,39 +1,99 @@
-## Saaaalve dev, Anthony Aqui!
-### Olá, seja bem-vindo(a) ao meu perfil,</br> sou um jovem apaixonado por tecnologia e especialista em Desenvolvimento Mobile.
+<h1 align="center">👋 Olá, eu sou o Anthony Sá</h1>
+
+<p align="center">
+  <strong>Engenheiro de Software | Desenvolvedor Full Stack</strong>  
+</p>
+
+<p align="center">
+  🚀 Apaixonado por construir soluções que unem tecnologia, processos e experiência do usuário.  
+  💡 Da arquitetura ao produto final — transformar ideias em resultados é o que me move.
+</p>
+
+---
+
+### 🧠 Sobre Mim
+
+Sou **Engenheiro de Software** com experiência no desenvolvimento de sistemas **web e mobile** voltados para eficiência, escalabilidade e impacto real nos negócios.
+
+Minha trajetória combina **visão corporativa** e **mentalidade de startup**:
+- Na **Novo Nordisk**, uma das maiores farmacêuticas do mundo, aprimorei minha capacidade de entender **processos empresariais complexos**, conectando **tecnologia e estratégia** para gerar valor real.  
+- Em startups e projetos independentes, aprendi a **agir rápido, validar ideias e enfrentar desafios técnicos** que moldaram minha forma de pensar como criador de produtos.  
+
+Minha missão é unir essas duas visões — **precisão corporativa** e **inovação ágil** — para desenvolver soluções que otimizem o tempo, reduzam erros e tornem o digital mais humano.
+
+---
+
+### ⚡ Tecnologias e Ferramentas
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
--   <a href = "https://drive.google.com/file/d/1zE9-kVl26xbKlzZ79PFU8UVHV0lnDOL8/view?usp=drive_link" target=_blank>
-      Curriculum Vitae
-    </a>
-    
--   <a href = "https://www.anthonysa.com.br/" target=_blank>
-      Portfólio
-    </a>
-    
-<br>
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
-    <h1 align="center">Minhas Tecnologias <3</h1>
-      <img align="center" height="50" width="80" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      <img align="center" height="50" width="80" alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <img align="center" height="50" width="80" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" >
-      <img align="center" height="50" width="80" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-      <img align="center" height="50" width="80" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: anthonysareis11@gmail.com" target=blank>
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/anthony-sa-reis/" target=_blank>
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/anthonysareis/" target=_blank>
-      <img width="25" src="instagram.png">
-    </a>
 </div>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💼 O Que Eu Faço
+
+🔹 Desenvolvimento de sistemas **Full Stack**, conectando frontend e backend com foco em performance e experiência.  
+🔹 Criação de **dashboards e automações inteligentes**, integrando dados com **Power BI**, **Python** e **SQL Server**.  
+🔹 Arquitetura de APIs escaláveis em **Node.js**, **NestJS** e **Fastify**, com integrações seguras e de alto desempenho.  
+🔹 Implementação de **processos de qualidade**, incluindo testes automatizados, CI/CD e versionamento bem estruturado.  
+🔹 Experiência em **ambientes corporativos globais** e **startups ágeis**, com forte visão de produto e processos de negócio.
+
+---
+
+### 🧩 Projeto em Destaque — *ScrapeFlow*
+
+🕸️ **ScrapeFlow** é uma plataforma de **workflows automatizados de Web Scraping**, projetada para simplificar tarefas repetitivas e extrair dados da web de forma visual e escalável.
+
+📊 **Visão do Projeto:**  
+Transformar automações complexas em fluxos acessíveis e intuitivos, onde qualquer pessoa pode criar um workflow de coleta de dados sem escrever uma linha de código.
+
+⚙️ **Tecnologias Envolvidas:**  
+React • TypeScript • Node.js • Fastify • PostgreSQL • Prisma • Puppeteer  
+
+🧩 **Destaques Técnicos:**  
+- Estrutura modular de fluxos, permitindo encadeamento de tarefas  
+- Execução paralela com controle de estado em tempo real  
+- Painel visual para monitorar execuções e logs  
+- Design centrado em **usabilidade e automação inteligente**
+
+🚧 *Atualmente em desenvolvimento — mas com alma de produto que vai escalar!*
+
+---
+
+### 🏆 Prêmios e Reconhecimentos
+
+🏅 **Hackathon Universitário UNIFIPMOC 2024** — Líder da equipe vencedora com solução de transporte urbano via IA  
+🎓 **Ministrante Convidado (2025)** — Curso prático sobre **WebSockets** e comunicação em tempo real com Node.js e React
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="center">
+
+[🌎 Portfólio](https://anthonysa.com.br) • 
+[💼 LinkedIn](https://www.linkedin.com/in/anthony-sa-reis/) • 
+[🐙 GitHub](https://github.com/AnthonySaDev) • 
+📧 **anthonysareis11@gmail.com**
+
+</div>
+
+---
+
+<p align="center">
+  Feito com 💙 e propósito por <strong>Anthony Sá</strong>
+</p>
