@@ -53,27 +53,7 @@ Minha missão é unir essas duas visões — **precisão corporativa** e **inova
 🔹 Implementação de **processos de qualidade**, incluindo testes automatizados, CI/CD e versionamento bem estruturado.  
 🔹 Experiência em **ambientes corporativos globais** e **startups ágeis**, com forte visão de produto e processos de negócio.
 
----
 
-### 🧩 Projeto em Destaque — *ScrapeFlow*
-
-🕸️ **ScrapeFlow** é uma plataforma de **workflows automatizados de Web Scraping**, projetada para simplificar tarefas repetitivas e extrair dados da web de forma visual e escalável.
-
-📊 **Visão do Projeto:**  
-Transformar automações complexas em fluxos acessíveis e intuitivos, onde qualquer pessoa pode criar um workflow de coleta de dados sem escrever uma linha de código.
-
-⚙️ **Tecnologias Envolvidas:**  
-React • TypeScript • Node.js • Fastify • PostgreSQL • Prisma • Puppeteer  
-
-🧩 **Destaques Técnicos:**  
-- Estrutura modular de fluxos, permitindo encadeamento de tarefas  
-- Execução paralela com controle de estado em tempo real  
-- Painel visual para monitorar execuções e logs  
-- Design centrado em **usabilidade e automação inteligente**
-
-🚧 *Atualmente em desenvolvimento — mas com alma de produto que vai escalar!*
-
----
 
 ### 🏆 Prêmios e Reconhecimentos
 
